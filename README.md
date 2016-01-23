@@ -47,7 +47,7 @@ Our goal was to work on mapping Hive Chicago Network activity and assets to prom
 
 **One word or image from each group member describing how they felt about the day.**
 
-<img style= "width:550px;" src="http://i.giphy.com/9QWwgHzvuC7As.gif">
+<img style= "width: 550px; align: center;" src="http://i.giphy.com/9QWwgHzvuC7As.gif">
 
 **A list of any topics you wanted to discuss but didn't have time for.**
 
