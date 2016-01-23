@@ -45,9 +45,9 @@ Our goal was to work on mapping Hive Chicago Network activity and assets to prom
 * Some of the team played around with some mapping tools, learning about CartoDB and other open source mapping resources.
 * Some of the team traveled as ambassadors to other teams to learn more about how we might cross-pollinate mapping projects
 
-**One word or image from each group member describing how they fell about the day.**
+**One word or image from each group member describing how they felt about the day.**
 
-![giphy](http://i.giphy.com/9QWwgHzvuC7As.gif)
+<img style= "width:100%;" src="http://i.giphy.com/9QWwgHzvuC7As.gif">
 
 **A list of any topics you wanted to discuss but didn't have time for.**
 
