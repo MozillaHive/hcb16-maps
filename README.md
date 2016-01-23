@@ -1,7 +1,7 @@
-## hcb16-maps
+## mapping hives HCB-2016
 [project] Hive Chicago Buzz asset mapping working group
 
-![peggy distance prototype](img/peggy.png)
+![peggy distance prototype](img/prototype.png)
 
 ### maps
 
