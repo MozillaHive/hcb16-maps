@@ -1,7 +1,7 @@
-#### hcb16-maps
+## hcb16-maps
 [project] Hive Chicago Buzz asset mapping working group
 
-### Participants
+### participants
 
 * Sonju
 * Allison
@@ -13,7 +13,7 @@
 * Jonathan
 * Subakar
 
-### Goals
+### goals
 
 * getting young people connected to programs
 * mapping assets: time map, transit, prioritization
@@ -22,7 +22,7 @@
 * mapping events: for hive networks, publicizing those events
 * building visibility: hive can see knowledge centers of a neighborhood
 
-### Share out
+### share out
 
 1. A brief summary of your topic or goal
 
