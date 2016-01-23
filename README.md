@@ -37,7 +37,7 @@ Our goal was to work on mapping Hive Chicago Network activity and assets to prom
 
 3. One word or image from each group member describing how they fell about the day
 
-<iframe src="//giphy.com/embed/9QWwgHzvuC7As" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/vhs-america-nsa-9QWwgHzvuC7As">via GIPHY</a></p>
+![giphy](http://i.giphy.com/9QWwgHzvuC7As.gif)
 
 4. A list of any topics you wanted to discuss but didn't have time for.
 
